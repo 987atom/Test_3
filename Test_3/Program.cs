@@ -35,7 +35,7 @@
                 {
                     Console.Beep(f1[0], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.C)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.P)
                 {
                     Console.Beep(f1[1], 100);
                 }
@@ -43,7 +43,7 @@
                 {
                     Console.Beep(f1[2], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.E)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.O)
                 {
                     Console.Beep(f1[3], 100);
                 }
@@ -55,7 +55,7 @@
                 {
                     Console.Beep(f1[5], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.F)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.I)
                 {
                     Console.Beep(f1[6], 100);
                 }
@@ -63,7 +63,7 @@
                 {
                     Console.Beep(f1[7], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.G)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.L)
                 {
                     Console.Beep(f1[8], 100);
                 }
@@ -71,7 +71,7 @@
                 {
                     Console.Beep(f1[9], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.B)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.Z)
                 {
                     Console.Beep(f1[10], 100);
                 }
@@ -97,7 +97,7 @@
                 {
                     Console.Beep(f2[0], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.C)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.P)
                 {
                     Console.Beep(f2[1], 100);
                 }
@@ -105,7 +105,7 @@
                 {
                     Console.Beep(f2[2], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.E)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.O)
                 {
                     Console.Beep(f2[3], 100);
                 }
@@ -117,7 +117,7 @@
                 {
                     Console.Beep(f2[5], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.F)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.I)
                 {
                     Console.Beep(f2[6], 100);
                 }
@@ -125,7 +125,7 @@
                 {
                     Console.Beep(f2[7], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.G)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.L)
                 {
                     Console.Beep(f2[8], 100);
                 }
@@ -133,7 +133,7 @@
                 {
                     Console.Beep(f2[9], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.B)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.Z)
                 {
                     Console.Beep(f2[10], 100);
                 }
@@ -158,7 +158,7 @@
                 {
                     Console.Beep(f3[0], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.C)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.P)
                 {
                     Console.Beep(f3[1], 100);
                 }
@@ -166,7 +166,7 @@
                 {
                     Console.Beep(f3[2], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.E)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.O)
                 {
                     Console.Beep(f3[3], 100);
                 }
@@ -178,7 +178,7 @@
                 {
                     Console.Beep(f3[5], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.F)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.I)
                 {
                     Console.Beep(f3[6], 100);
                 }
@@ -186,7 +186,7 @@
                 {
                     Console.Beep(f3[7], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.G)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.L)
                 {
                     Console.Beep(f3[8], 100);
                 }
@@ -194,7 +194,7 @@
                 {
                     Console.Beep(f3[9], 100);
                 }
-                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.B)
+                if (key.Modifiers.HasFlag(ConsoleModifiers.Alt) && key.Key == ConsoleKey.Z)
                 {
                     Console.Beep(f3[10], 100);
                 }
