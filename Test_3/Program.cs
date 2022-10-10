@@ -23,6 +23,14 @@
             {
                 int[] f1 = new[] { 1635, 1732, 1835, 1945, 2060, 2183, 2312, 2450, 2596, 2750, 2914, 3087};
                 ConsoleKeyInfo key = Console.ReadKey();
+                if (key.Key == ConsoleKey.F2)
+                {
+                    f2();
+                }
+                if (key.Key == ConsoleKey.F3)
+                {
+                    f3();
+                }
                 if (key.Key == ConsoleKey.C)
                 {
                     Console.Beep(f1[0], 100);
@@ -77,6 +85,14 @@
             {
                 int[] f2 = new[] { 3270, 3465, 3671, 3889, 4120, 4365, 4625, 4900, 5191, 5500, 5827, 6174 };
                 ConsoleKeyInfo key = Console.ReadKey();
+                if (key.Key == ConsoleKey.F1)
+                {
+                    f1();
+                }
+                if (key.Key == ConsoleKey.F3)
+                {
+                    f3();
+                }
                 if (key.Key == ConsoleKey.C)
                 {
                     Console.Beep(f2[0], 100);
@@ -130,6 +146,14 @@
             {
                 int[] f3 = new[] { 6541, 6930, 7342, 7778, 8241, 8731, 9250, 9800, 10380, 11000, 11650, 12350 };
                 ConsoleKeyInfo key = Console.ReadKey();
+                if (key.Key == ConsoleKey.F1)
+                {
+                    f1();
+                }
+                if (key.Key == ConsoleKey.F2)
+                {
+                    f2();
+                }
                 if (key.Key == ConsoleKey.C)
                 {
                     Console.Beep(f3[0], 100);
